@@ -2,9 +2,9 @@ implement Library
  //image crop library
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
 
-    //gradel.propertise
+//gradel.propertise
     android.enableJetifier=true
-    //gradel.setting
+//gradel.setting
     dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
